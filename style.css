@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(to right, rgb(221, 196, 200), rgb(210, 136, 148), rgb(145, 196, 241));
+}
+#image{
+    border: 5px solid rgb(236, 47, 47);
+    border-radius: 20px;
+}
+a{
+    cursor: pointer;
+}
+a:hover{
+    color: rgb(228, 15, 100);
+    font-weight: bold;
+}
+#hideText{
+    display: none;
+}
